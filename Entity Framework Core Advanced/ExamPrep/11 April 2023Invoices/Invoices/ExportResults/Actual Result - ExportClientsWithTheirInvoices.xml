@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Clients>
+  <Client InvoicesCount="9">
+    <ClientName>SPEDOX,SRO</ClientName>
+    <VatNumber>SK2023911087</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1063259096</InvoiceNumber>
+        <InvoiceAmount>167.22</InvoiceAmount>
+        <DueDate>19.2.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1427940691</InvoiceNumber>
+        <InvoiceAmount>913.13</InvoiceAmount>
+        <DueDate>28.10.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1141515905</InvoiceNumber>
+        <InvoiceAmount>161.98</InvoiceAmount>
+        <DueDate>9.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1002264336</InvoiceNumber>
+        <InvoiceAmount>214.76</InvoiceAmount>
+        <DueDate>24.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1054945233</InvoiceNumber>
+        <InvoiceAmount>21.62</InvoiceAmount>
+        <DueDate>2.4.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1335153144</InvoiceNumber>
+        <InvoiceAmount>180.96</InvoiceAmount>
+        <DueDate>3.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1257958993</InvoiceNumber>
+        <InvoiceAmount>235.8</InvoiceAmount>
+        <DueDate>18.12.2022 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1413665552</InvoiceNumber>
+        <InvoiceAmount>22.68</InvoiceAmount>
+        <DueDate>14.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1196967065</InvoiceNumber>
+        <InvoiceAmount>21.62</InvoiceAmount>
+        <DueDate>27.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="4">
+    <ClientName>BTS GMBH CO KG</ClientName>
+    <VatNumber>DE814592224</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1284062717</InvoiceNumber>
+        <InvoiceAmount>533.65</InvoiceAmount>
+        <DueDate>18.11.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1444905153</InvoiceNumber>
+        <InvoiceAmount>166.15</InvoiceAmount>
+        <DueDate>3.2.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1374893986</InvoiceNumber>
+        <InvoiceAmount>939.86</InvoiceAmount>
+        <DueDate>3.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1372021149</InvoiceNumber>
+        <InvoiceAmount>11.49</InvoiceAmount>
+        <DueDate>14.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="4">
+    <ClientName>LE RELAIS DES PRIMEURS</ClientName>
+    <VatNumber>FR64431553163</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1108430716</InvoiceNumber>
+        <InvoiceAmount>252.3</InvoiceAmount>
+        <DueDate>14.12.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1215683128</InvoiceNumber>
+        <InvoiceAmount>7</InvoiceAmount>
+        <DueDate>6.4.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1420442239</InvoiceNumber>
+        <InvoiceAmount>22.68</InvoiceAmount>
+        <DueDate>9.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1069034541</InvoiceNumber>
+        <InvoiceAmount>345.51</InvoiceAmount>
+        <DueDate>1.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="4">
+    <ClientName>LOPERBEN SL</ClientName>
+    <VatNumber>ESB24242765</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1208400268</InvoiceNumber>
+        <InvoiceAmount>214.76</InvoiceAmount>
+        <DueDate>24.12.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1173367140</InvoiceNumber>
+        <InvoiceAmount>21.79</InvoiceAmount>
+        <DueDate>24.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1193017635</InvoiceNumber>
+        <InvoiceAmount>21.62</InvoiceAmount>
+        <DueDate>2.4.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1408771891</InvoiceNumber>
+        <InvoiceAmount>17.6</InvoiceAmount>
+        <DueDate>29.4.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="3">
+    <ClientName>OFFICINA TURBOCAR SNC</ClientName>
+    <VatNumber>IT00364840074</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1409090891</InvoiceNumber>
+        <InvoiceAmount>370.16</InvoiceAmount>
+        <DueDate>8.12.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1370816186</InvoiceNumber>
+        <InvoiceAmount>224.92</InvoiceAmount>
+        <DueDate>24.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1343280899</InvoiceNumber>
+        <InvoiceAmount>105.85</InvoiceAmount>
+        <DueDate>19.2.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="3">
+    <ClientName>SARL FLEXATRANS</ClientName>
+    <VatNumber>FR28503105314</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1095578321</InvoiceNumber>
+        <InvoiceAmount>21.52</InvoiceAmount>
+        <DueDate>4.4.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1078925467</InvoiceNumber>
+        <InvoiceAmount>254</InvoiceAmount>
+        <DueDate>1.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1405859652</InvoiceNumber>
+        <InvoiceAmount>956.54</InvoiceAmount>
+        <DueDate>9.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="3">
+    <ClientName>TEAM SERVICE CAR SRL</ClientName>
+    <VatNumber>IT00931980965</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1423600230</InvoiceNumber>
+        <InvoiceAmount>406.81</InvoiceAmount>
+        <DueDate>3.12.2022 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1300941213</InvoiceNumber>
+        <InvoiceAmount>252.3</InvoiceAmount>
+        <DueDate>14.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1167712585</InvoiceNumber>
+        <InvoiceAmount>129.78</InvoiceAmount>
+        <DueDate>17.2.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>JOSEF PAUL GMBH COKG</ClientName>
+    <VatNumber>DE131605560</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1092784873</InvoiceNumber>
+        <InvoiceAmount>51.52</InvoiceAmount>
+        <DueDate>5.4.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1272358980</InvoiceNumber>
+        <InvoiceAmount>98.8</InvoiceAmount>
+        <DueDate>23.2.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>KAMEEN LOGISTIC KG</ClientName>
+    <VatNumber>ATU75339778</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1292770804</InvoiceNumber>
+        <InvoiceAmount>170.73</InvoiceAmount>
+        <DueDate>1.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1416723313</InvoiceNumber>
+        <InvoiceAmount>161.98</InvoiceAmount>
+        <DueDate>10.2.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>MHS TRUCK SERVICE SRL</ClientName>
+    <VatNumber>RO33935139</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1458253589</InvoiceNumber>
+        <InvoiceAmount>235.8</InvoiceAmount>
+        <DueDate>16.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1354766486</InvoiceNumber>
+        <InvoiceAmount>7664.86</InvoiceAmount>
+        <DueDate>27.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>SAS TURBOTRUCKS REIMS</ClientName>
+    <VatNumber>FR23752934406</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1155509940</InvoiceNumber>
+        <InvoiceAmount>288.05</InvoiceAmount>
+        <DueDate>9.12.2022 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1335911776</InvoiceNumber>
+        <InvoiceAmount>67.52</InvoiceAmount>
+        <DueDate>1.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>SCANIA SLOVAKIA SRO</ClientName>
+    <VatNumber>SK2020261144</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1315215484</InvoiceNumber>
+        <InvoiceAmount>420.6</InvoiceAmount>
+        <DueDate>2.12.2022 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1298858914</InvoiceNumber>
+        <InvoiceAmount>152.73</InvoiceAmount>
+        <DueDate>13.2.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+  <Client InvoicesCount="2">
+    <ClientName>TALLERES MAVIMA SL</ClientName>
+    <VatNumber>ESB26163097</VatNumber>
+    <Invoices>
+      <Invoice>
+        <InvoiceNumber>1222493053</InvoiceNumber>
+        <InvoiceAmount>167.22</InvoiceAmount>
+        <DueDate>3.3.2023 г.</DueDate>
+        <Currency>USD</Currency>
+      </Invoice>
+      <Invoice>
+        <InvoiceNumber>1439153899</InvoiceNumber>
+        <InvoiceAmount>83.99</InvoiceAmount>
+        <DueDate>14.3.2023 г.</DueDate>
+        <Currency>EUR</Currency>
+      </Invoice>
+    </Invoices>
+  </Client>
+</Clients>
